@@ -66,7 +66,7 @@ git checkout -b branch-name
 ```bash
 git status
 git add index.html
-git commit -m "Update Hero section content"
+git commit -m "commit-name"
 ```
 
 ### Phase 4: Push & Pull Request (Everyone)
@@ -124,6 +124,7 @@ You are now Git contributors!
 ---
 
 **Built with ❤️ by IT Geeks Club**
+
 
 
 
